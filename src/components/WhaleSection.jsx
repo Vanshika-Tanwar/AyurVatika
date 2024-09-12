@@ -26,7 +26,7 @@ const WhaleSection = () => {
       <div className="max-w-lg" style={{ color: '#7E362A', textShadow: '3px 2px 2px white' }}>
           <h1 className="text-4xl lg:text-5xl font-bold mb-6">Medicinal Victory!</h1>
           <p className="text-lg lg:text-xl mb-8">
-          Whales & their majestic forms rising from the sea create a magical moment, leaving a lasting impression of the ocean's wonders. Wait No More!
+          An interactive 3D model incorporated Virtual Herbal Garden, Welcome to Ayur Vatika!
           </p>
         </div>
         <Link to="/log-in">
